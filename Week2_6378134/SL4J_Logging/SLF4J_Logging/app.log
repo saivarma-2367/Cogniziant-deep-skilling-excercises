@@ -1,0 +1,3 @@
+2025-06-23 17:43:03 INFO  com.example.AppenderLoggingExample - This message should appear in both the console and app.log
+2025-06-23 17:43:03 WARN  com.example.AppenderLoggingExample - This is a warning written to both appenders
+2025-06-23 17:43:03 ERROR com.example.AppenderLoggingExample - This is an error message with appenders
